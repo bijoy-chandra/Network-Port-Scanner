@@ -1,7 +1,7 @@
 # Project: Network Port Scanner
 
-## Project Description
-The Network Port Scanner is a Python-based tool designed to identify open ports within a network. Open ports are crucial for communication between devices, but they can also pose a security risk if left unmonitored. This tool helps administrators and penetration testers quickly and efficiently check for open ports on one or multiple hosts.
+## Introduction-
+A port scanner is a crucial tool for network security professionals and enthusiasts. It allows you to discover open, closed, or filtered ports on a target system. In this tutorial, we’ll create a basic port scanner using Python.
 
 ## Features
 - Single Host Scanning: Scan a single IP address for open ports within a specified range.
