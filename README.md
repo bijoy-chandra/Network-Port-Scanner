@@ -21,7 +21,12 @@ A port scanner is a crucial tool for network security professionals and enthusia
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/8941b2f4-c4f3-4583-9965-f75e61d621a6)
+This is a Vulnerable machine IP called "metasploitable 2.0". Here's what get back from our scanning. This is very nice tool and very fast.
 
-![image](https://github.com/user-attachments/assets/4c857339-616a-4e86-8368-240f500ee530)
+![image](https://github.com/user-attachments/assets/c1e45f08-b6ff-4533-b16c-99c3176b3a40)
+
+This is another machine:
+
+![image](https://github.com/user-attachments/assets/470ed84a-4afe-4a84-b366-666013984643)
+
 
