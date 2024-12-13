@@ -18,3 +18,10 @@ A port scanner is a crucial tool for network security professionals and enthusia
 - socket: for network communication
 - sys: For handling command-line arguments.
 - datetime: To calculate scan duration.
+
+## Output:
+
+![image](https://github.com/user-attachments/assets/8941b2f4-c4f3-4583-9965-f75e61d621a6)
+
+![image](https://github.com/user-attachments/assets/4c857339-616a-4e86-8368-240f500ee530)
+
